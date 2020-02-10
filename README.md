@@ -5,7 +5,7 @@ CDGAN: Cyclic Discriminative Generative Adversarial Networks for Image-to-Image 
 # CDGAN Implementation in PyTorch
 This is the implementation of our paper called <b>"CDGAN: Cyclic Discriminative Generative Adversarial Networks for Image-to-Image Transformation".<b> <a href="https://arxiv.org/pdf/2001.05489">https://arxiv.org/pdf/2001.05489</a>.
 ## CDGAN Architectue
-<img src='' align="center" width=600>
+<img src='CDGAN.png' align="center" width=600>
 <br><br><br>
   
   
